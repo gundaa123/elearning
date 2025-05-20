@@ -41,7 +41,11 @@ Using GitHub as the central repository not only facilitates professional collabo
 Overall, this task serves as an effective capstone-style project that encapsulates key front-end development principles while reinforcing the importance of clarity, structure, and real-world application. By successfully completing this task, interns not only solidify their technical skills but also produce a demonstrable piece of work that adds significant value to their resumes or professional portfolios.
 
 Let me know if you want this transformed into a formal report, blog post, or GitHub README.
-OUTPUT:
+OUTPUT:![Image](https://github.com/user-attachments/assets/9ddceaf7-4f7a-4fad-91aa-8efd487b6cca)
+
+![Image](https://github.com/user-attachments/assets/0e6cb709-c934-47dc-9ee4-6605d65339aa)
+
+![Image](https://github.com/user-attachments/assets/3958fed9-3752-439b-bd40-873c82b985d8)
 
 
 
